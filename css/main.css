@@ -108,7 +108,7 @@ body {
  transition: background-color 1000ms linear;
  
   -webkit-animation: slide-up 250ms ease-out;
-	animation: slide-up 1250ms ease-out;
+	animation: slide-up 250ms ease-out;
 }
 .chart__item:hover .chart__bar {
  background-color: #9FC;
